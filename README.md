@@ -3,7 +3,7 @@
 A Windows Classic theme using Ethan Schoonover's [Solarized][] palette.
 Compatible with Windows Vista and Windows 7. Windows 8 and later do not support Windows Classic without modifications.
 
-[This repository][] exists for inclusion in the main [Solarized repo][Solarized GitHub].
+[This repository][this] exists for inclusion in the main [Solarized repo][Solarized GitHub].
 
 [Solarized]: http://ethanschoonover.com/solarized
 [Solarized GitHub]: https://github.com/altercation/solarized
@@ -14,7 +14,7 @@ Compatible with Windows Vista and Windows 7. Windows 8 and later do not support 
 Double-click the `.theme` file to apply the theme.
 
 Alternatively, you can download a `.themepack` file from DeviantArt
-([Dark][], [Light][]) that is tagged with a small branding image.
+([Dark][dA Dark], [Light][dA Light]) that is tagged with a small branding image.
 
 [dA Dark]: http://fav.me/d9sj8b8
 [dA Light]: http://fav.me/d9sjaiv
