@@ -1,0 +1,80 @@
+; Copyright © Microsoft Corp. 1995-2001
+
+
+[Control Panel\Colors]
+ActiveBorder=0 43 54
+ActiveTitle=0 43 54
+AppWorkspace=0 43 54
+Background=0 43 54
+ButtonAlternateFace=0 43 54
+ButtonFace=7 54 66
+ButtonDkShadow=0 43 54
+ButtonHilight=0 43 54
+ButtonLight=0 43 54
+ButtonShadow=0 43 54
+ButtonText=131 148 150
+GradientActiveTitle=0 43 54
+GradientInactiveTitle=7 54 66
+GrayText=88 110 117
+Hilight=211 54 130
+HilightText=238 232 213
+HotTrackingColor=38 139 210
+InactiveBorder=7 54 66
+InactiveTitle=7 54 66
+InactiveTitleText=131 148 150
+InfoText=181 137 0
+InfoWindow=253 246 227
+Menu=7 54 66
+MenuBar=131 148 150
+MenuHilight=211 54 130
+MenuText=131 148 150
+Scrollbar=0 43 54
+TitleText=108 113 196
+Window=0 43 54
+WindowFrame=0 43 54
+WindowText=131 148 150
+
+
+[Control Panel\Desktop]
+TileWallpaper=0
+WallpaperStyle=2
+Pattern=
+ScreenSaveActive=0
+
+[Control Panel\Desktop\WindowMetrics]
+
+[Metrics]
+IconMetrics=76 0 0 0 75 0 0 0 75 0 0 0 1 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 84 97 104 111 109 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0        
+NonclientMetrics=88 1 0 0 1 0 0 0 16 0 0 0 16 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 1 0 0 0 0 84 97 104 111 109 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0 0 15 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 1 0 0 0 0 84 97 104 111 109 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 84 97 104 111 109 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 84 97 104 111 109 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 84 97 104 111 109 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0        
+LangID=1033
+
+[MasterThemeSelector]
+MTSM=DABJDKT
+ThemeColorBPP=4
+
+
+
+[VisualStyles]
+Path=
+ColorStyle=Windows Classic
+Size=Normal
+Transparency=1
+ColorizationColor=0XEC073642
+Composition=1
+VisualStyleVersion=10
+
+[boot]
+SCRNSAVE.EXE=
+[Sounds]
+SchemeName=Windows Default
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-109
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-123
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%SystemRoot%\System32\imageres.dll,-25
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+full=%SystemRoot%\System32\imageres.dll,-54
+empty=%SystemRoot%\System32\imageres.dll,-55
+[Theme]
+DisplayName=Solarized Dark
