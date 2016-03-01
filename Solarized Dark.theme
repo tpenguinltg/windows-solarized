@@ -56,8 +56,8 @@ ThemeColorBPP=4
 
 [VisualStyles]
 Path=
-ColorStyle=Windows Classic
-Size=Normal
+ColorStyle=@themeui.dll,-854
+Size=@themeui.dll,-2019
 Transparency=1
 ColorizationColor=0XEC073642
 Composition=1
